@@ -39,7 +39,7 @@ python3 main.py data/limited output
 The model has been stored with git lfs and should be cloned automatically. Alternatively, if the bandwidth limit of git lfs has been exceeded, you can download the model with:
 
 ```
-wget https://asdf10.com/model3.pth -o model.pth
+wget https://asdf10.com/model3.pth -O model.pth
 ```
 
 It's SHA256 checksum is `b41b5503deef2dc513923eb6b5ced4375e370d5de70790e7af71be36d9b02a0d`.
